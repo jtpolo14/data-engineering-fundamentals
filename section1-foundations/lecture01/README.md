@@ -1,6 +1,6 @@
 # Lecture 01: Environment Setup & Hello Data
 
-Welcome to your first lecture in **Intro to Data Engineering: Python Fundamentals**! In this lecture, you'll set up your Python environment and write your first data-focused Python program.
+Welcome to your first lecture in **Intro to Data Engineering: Python Fundamentals**! In this lecture, you'll set up your Python environment and write your first Python program.
 
 ---
 
@@ -35,18 +35,7 @@ In this course, you'll learn Python skills specifically for data engineering tas
 
 ## Environment Setup
 
-### Option 1: Replit (Recommended for Beginners)
-
-1. Go to [replit.com](https://replit.com)
-2. Sign up for a free account (or sign in)
-3. Click "Create Repl"
-4. Select "Python" as the language
-5. Name it "data-engineering-course"
-6. Click "Create Repl"
-
-You're ready to code! Replit provides a complete Python environment in your browser.
-
-### Option 2: Google Colab
+### Option 1: Google Colab (Recommended for Beginners)
 
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. Sign in with your Google account
@@ -55,7 +44,7 @@ You're ready to code! Replit provides a complete Python environment in your brow
 
 **Note**: Colab uses Jupyter notebooks, so code cells work slightly differently than regular Python files.
 
-### Option 3: Local Python Installation
+### Option 2: Local Python Installation
 
 If you prefer to work locally:
 
@@ -152,11 +141,6 @@ Comments help explain what your code does and are essential for data engineering
 ---
 
 ## Running Your Code
-
-### In Replit:
-1. Write your code in the editor
-2. Click the green "Run" button
-3. See output in the console below
 
 ### In Google Colab:
 1. Write code in a cell
@@ -274,7 +258,6 @@ In this lecture, you learned:
 ## Additional Resources
 
 - [Python.org Official Tutorial](https://docs.python.org/3/tutorial/)
-- [Replit Python Guide](https://docs.replit.com/programming-ide/getting-started-python)
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ---

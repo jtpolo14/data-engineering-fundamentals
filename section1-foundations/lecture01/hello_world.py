@@ -1,6 +1,6 @@
 """
-Lecture 01: Hello Data - Example Code
-This file demonstrates basic Python print statements with data engineering context.
+Lecture 01: Hello World - Example Code
+This file demonstrates basic Python print statements.
 """
 
 # Example 1: Basic Hello World

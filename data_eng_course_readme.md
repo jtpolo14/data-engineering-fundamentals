@@ -30,8 +30,7 @@ Your capstone project will be a **Banking Transaction Data Pipeline** that:
 ## Tools & Environment
 
 This course uses **browser-based Python environments** to eliminate setup friction:
-- [Replit](https://replit.com) - Recommended for beginners
-- [Google Colab](https://colab.research.google.com) - Alternative option
+- [Google Colab](https://colab.research.google.com) - Recommended for beginners
 - Any local Python 3.9+ installation works too
 
 No installation required to get started!
@@ -40,7 +39,7 @@ No installation required to get started!
 
 ## Course Structure
 
-### Week 1: Python Foundations for Data
+### Section 1: Python Foundations for Data
 Learn the building blocks of Python while working with financial data from day one.
 
 - **Lecture 01** - Environment Setup & Hello Data
@@ -49,11 +48,11 @@ Learn the building blocks of Python while working with financial data from day o
 - **Lecture 04** - User Input & Data Collection
 - **Lecture 05** - String Manipulation
 
-**Week 1 Goal**: Build a simple ATM simulator and transaction parser
+**Section 1 Goal**: Build a simple ATM simulator and transaction parser
 
 ---
 
-### Week 2: Control Flow & Data Processing
+### Section 2: Control Flow & Data Processing
 Master logic and loops to process large datasets efficiently.
 
 - **Lecture 06** - Conditional Logic
@@ -62,11 +61,11 @@ Master logic and loops to process large datasets efficiently.
 - **Lecture 09** - Dictionaries for Structured Data
 - **Lecture 10** - Mini Project: Transaction Analyzer
 
-**Week 2 Goal**: Create a transaction analyzer that processes 100+ records
+**Section 2 Goal**: Create a transaction analyzer that processes 100+ records
 
 ---
 
-### Week 3: Functions & File Operations
+### Section 3: Functions & File Operations
 Write reusable code and work with real data files.
 
 - **Lecture 11** - Functions for Reusable Code
@@ -75,11 +74,11 @@ Write reusable code and work with real data files.
 - **Lecture 14** - Working with JSON
 - **Lecture 15** - Introduction to Modules
 
-**Week 3 Goal**: Build a banking function library with file I/O capabilities
+**Section 3 Goal**: Build a banking function library with file I/O capabilities
 
 ---
 
-### Week 4: Data Engineering Capstone
+### Section 4: Data Engineering Capstone
 Apply everything you've learned to build a complete ETL pipeline.
 
 - **Lecture 16** - Introduction to Data Engineering
@@ -88,7 +87,7 @@ Apply everything you've learned to build a complete ETL pipeline.
 - **Lecture 19** - Load: Preparing Data for Database
 - **Lecture 20** - Capstone: Banking Data Pipeline
 
-**Week 4 Goal**: Complete a production-ready data pipeline
+**Section 4 Goal**: Complete a production-ready data pipeline
 
 ---
 
@@ -103,10 +102,10 @@ Each lecture follows this structure:
 
 ### Sample Challenge Progression
 
-- **Week 1**: Clean a single transaction string
-- **Week 2**: Process 100 transactions and calculate totals
-- **Week 3**: Read transactions from CSV and export to JSON
-- **Week 4**: Build a complete multi-source ETL pipeline
+- **Section 1**: Clean a single transaction string
+- **Section 2**: Process 100 transactions and calculate totals
+- **Section 3**: Read transactions from CSV and export to JSON
+- **Section 4**: Build a complete multi-source ETL pipeline
 
 ---
 
@@ -115,7 +114,7 @@ Each lecture follows this structure:
 ```
 intro-to-data-engineering/
 ├── README.md
-├── week1-foundations/
+├── section1-foundations/
 │   ├── lecture01/
 │   │   ├── README.md
 │   │   ├── hello_data.py
@@ -124,19 +123,19 @@ intro-to-data-engineering/
 │   ├── lecture03/
 │   ├── lecture04/
 │   └── lecture05/
-├── week2-control-flow/
+├── section2-control-flow/
 │   ├── lecture06/
 │   ├── lecture07/
 │   ├── lecture08/
 │   ├── lecture09/
 │   └── lecture10/
-├── week3-functions-files/
+├── section3-functions-files/
 │   ├── lecture11/
 │   ├── lecture12/
 │   ├── lecture13/
 │   ├── lecture14/
 │   └── lecture15/
-├── week4-capstone/
+├── section4-capstone/
 │   ├── lecture16/
 │   ├── lecture17/
 │   ├── lecture18/
@@ -146,6 +145,7 @@ intro-to-data-engineering/
 │       ├── data/
 │       ├── requirements.txt
 │       └── README.md
+├── section5-model-design/
 └── resources/
     ├── python-cheatsheet.md
     ├── data-engineering-glossary.md
@@ -191,7 +191,7 @@ By completing this course, you will be able to:
 ## Getting Started
 
 1. **Clone or download this repository**
-2. **Navigate to Week 1, Lecture 01**
+2. **Navigate to Section 1, Lecture 01**
 3. **Open the README.md for that lecture**
 4. **Follow along with the code examples**
 5. **Complete the hands-on challenge**
@@ -254,4 +254,4 @@ Special thanks to our pilot students and contributors who help make this course 
 
 ---
 
-**Ready to start?** Head to [Week 1, Lecture 01](week1-foundations/lecture01/README.md) and begin your data engineering journey!
+**Ready to start?** Head to [Section 1, Lecture 01](section1-foundations/lecture01/README.md) and begin your data engineering journey!
