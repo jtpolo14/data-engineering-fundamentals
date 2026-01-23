@@ -58,7 +58,11 @@ If you prefer to work locally:
 
 ## Your First Python Program
 
-Let's start with the classic "Hello, World!" program, but with a data engineering twist.
+Let's start with the classic "Hello, World!" script, but with a data engineering twist.
+
+**Note**: For local python installations:
+- python files must end in .py (anyFileNameYouLike.py)
+- run the file with terminal command `python anyFileNameYouLike.py`
 
 ### Example 1: Hello, World!
 
@@ -67,13 +71,15 @@ print("Hello, World!")
 ```
 
 **What's happening?**
-- `print()` is a built-in Python function that displays text
+- `print()` is a built-in Python function that displays text to the screen
 - The text inside quotes is a **string** (text data)
-- When you run this, it displays: `Hello, World!`
+- When you run the cell (SHIFT + ENTER), it displays: `Hello, World!`
 
 ### Example 2: Hello, Data!
 
-Now let's make it data-focused:
+Now let's make it data-focused. Python executes scripts one line at a time following these rules:
+- if a line of code errors, output the error
+- else execute and go to next line    
 
 ```python
 print("Hello, Data Engineering!")
@@ -136,7 +142,7 @@ You can add notes to your code using comments:
 print("This code runs")  # Comments can be on the same line too
 ```
 
-Comments help explain what your code does and are essential for data engineering projects!
+Comments help explain what your code does and are essential for coding projects, good coders use comments!
 
 ---
 
@@ -257,7 +263,7 @@ In this lecture, you learned:
 
 ## Additional Resources
 
-- [Python.org Official Tutorial](https://docs.python.org/3/tutorial/)
+- [Python.org Official Getting Started]([https://docs.python.org/3/tutorial/](https://www.python.org/about/gettingstarted/))
 - [Google Colab Introduction](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ---
