@@ -124,8 +124,6 @@ Every session follows the same proven structure:
 
 **Browser-friendly tools.** SQLite, Docker, free-tier cloud accounts. No expensive software or complex setup.
 
-**Built by practitioners.** Created by engineers who build pipelines, not academics who lecture about them.
-
 ---
 
 ## Frequently Asked Questions
