@@ -137,16 +137,16 @@ Not for Sessions 1-2. For Sessions 3+, complete our free [Python Fundamentals](.
 At 1-2 sessions per week, most people finish in 5-10 weeks. Go at your own pace.
 
 **What if I get stuck?**
-Every exercise has a complete solution file. Open a GitHub issue for additional help.
+Every exercise has a complete solution file. Bring your questions to the next session.
 
 **Can I buy sessions individually?**
-Yes. Each session is $49 individually, or get all 8 paid sessions for $299.
+Yes. Each session is $198 individually, or get all 8 paid sessions for $1,584.
 
 **What tools do I need?**
 Python 3.9+, DB Browser for SQLite, Docker Desktop, and a code editor. All free.
 
 **Is there a refund policy?**
-Yes — if you're not satisfied within 14 days of purchase, we'll refund your payment.
+No — all sales are final. Sessions 1-2 are free, so please consider your decision carefully before purchasing.
 
 ---
 
