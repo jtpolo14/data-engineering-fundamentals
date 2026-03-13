@@ -63,7 +63,7 @@ Before starting this program, you should have:
 
 | Tier | Sessions | Price |
 |------|----------|-------|
-| Free Preview | Sessions 1-2 (2 hrs each) | **$0** |
+| Free Preview | Sessions 1-2 (1 hr each) | **$0** |
 | Per Session | Any single session (3-10, 2 hrs each) | **$198/session** |
 | Full Access Bundle | Sessions 3-10 (all 8, 16 hrs total) | **$1,584** |
 

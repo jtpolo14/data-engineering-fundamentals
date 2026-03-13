@@ -79,7 +79,7 @@ This program is designed for:
 
 | | |
 |---|---|
-| **Sessions 1-2 (2 hrs each)** | **$0** |
+| **Sessions 1-2 (1 hr each)** | **$0** |
 | Full access to SQL deep dive and Airflow intro | |
 | Complete exercises and solutions included | |
 | No payment required | |

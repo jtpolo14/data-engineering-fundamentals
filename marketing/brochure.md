@@ -82,7 +82,7 @@ SQLite, Docker, Python, dbt, free-tier cloud accounts. No expensive software lic
 ### Free Preview
 | | |
 |---|---|
-| Sessions 1-2 (2 hrs each) | **$0** |
+| Sessions 1-2 (1 hr each) | **$0** |
 | Full materials, exercises, and solutions | |
 | No payment required | |
 
