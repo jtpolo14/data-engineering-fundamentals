@@ -1,0 +1,47 @@
+[
+    {
+        "account_id": 1,
+        "customer_name": "Jane Smith",
+        "email": "jane.smith@email.com",
+        "account_type": "Checking",
+        "opened_date": "2023-01-15",
+        "branch": "Downtown",
+        "status": "Active"
+    },
+    {
+        "account_id": 2,
+        "customer_name": "John Doe",
+        "email": "john.doe@email.com",
+        "account_type": "Savings",
+        "opened_date": "2023-02-20",
+        "branch": "Midtown",
+        "status": "Active"
+    },
+    {
+        "account_id": 3,
+        "customer_name": "Alice Johnson",
+        "email": "alice.j@email.com",
+        "account_type": "Checking",
+        "opened_date": "2022-11-01",
+        "branch": "Downtown",
+        "status": "Active"
+    },
+    {
+        "account_id": 4,
+        "customer_name": "Bob Williams",
+        "email": "bob.w@email.com",
+        "account_type": "Savings",
+        "opened_date": "2023-06-10",
+        "branch": "Uptown",
+        "status": "Active"
+    },
+    {
+        "account_id": 5,
+        "customer_name": "Carol Davis",
+        "email": "carol.d@email.com",
+        "account_type": "Checking",
+        "opened_date": "2023-03-05",
+        "branch": "Midtown",
+        "status": "Active"
+    }
+]
