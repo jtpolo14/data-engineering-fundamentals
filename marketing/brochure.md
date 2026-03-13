@@ -25,7 +25,7 @@ In 10 hands-on sessions, you'll go from writing SELECT statements to building pr
 
 ### First 2 Sessions Are FREE
 
-Try the program before you commit. Sessions 1 and 2 are completely free — no credit card required.
+Try the program before you commit. Sessions 1 and 2 are completely free — no payment required.
 
 ---
 
@@ -59,9 +59,6 @@ All 10 sessions use banking transaction data. Concepts build on each other becau
 ### Free & Open Tools
 SQLite, Docker, Python, dbt, free-tier cloud accounts. No expensive software licenses or proprietary platforms.
 
-### Built by Practitioners
-This program was created by engineers who build data pipelines professionally — not academics who lecture about them.
-
 ---
 
 ## Who This Is For
@@ -85,21 +82,21 @@ This program was created by engineers who build data pipelines professionally �
 ### Free Preview
 | | |
 |---|---|
-| Sessions 1-2 | **$0** |
+| Sessions 1-2 (2 hrs each) | **$0** |
 | Full materials, exercises, and solutions | |
-| No credit card required | |
+| No payment required | |
 
 ### Per Session
 | | |
 |---|---|
-| Any single session (3-10) | **$49** |
+| Any single session (3-10, 2 hrs each) | **$198** |
 | Complete materials with solutions | |
 | Lifetime access to updates | |
 
 ### Full Access Bundle
 | | |
 |---|---|
-| All 8 paid sessions (3-10) | **$299** (save $93) |
+| All 8 paid sessions (3-10, 16 hrs total) | **$1,584** |
 | Includes capstone starter code | |
 | Best value for committed learners | |
 

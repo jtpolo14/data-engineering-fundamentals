@@ -79,16 +79,16 @@ This program is designed for:
 
 | | |
 |---|---|
-| **Sessions 1-2** | **$0** |
+| **Sessions 1-2 (2 hrs each)** | **$0** |
 | Full access to SQL deep dive and Airflow intro | |
 | Complete exercises and solutions included | |
-| No credit card required | |
+| No payment required | |
 
 ### Per Session
 
 | | |
 |---|---|
-| **Any single session (3-10)** | **$49** |
+| **Any single session (3-10, 2 hrs each)** | **$198** |
 | Full session materials and exercises | |
 | Solution files with walkthroughs | |
 | Lifetime access to updates | |
@@ -97,8 +97,7 @@ This program is designed for:
 
 | | |
 |---|---|
-| **All 8 paid sessions (3-10)** | **$299** |
-| Save $93 vs purchasing individually | |
+| **All 8 paid sessions (3-10, 16 hrs total)** | **$1,584** |
 | Capstone project with starter code | |
 | Everything included in per-session | |
 
